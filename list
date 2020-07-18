@@ -1,4 +1,4 @@
-### 20200523
+### 20200718
 
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 0.gravatar.com
@@ -772,3 +772,37 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 d.adroll.com
+0.0.0.0 engine.spotscenered.info
+0.0.0.0 rl.quantummetric.com
+0.0.0.0 homedepot-app.quantummetric.com
+0.0.0.0 cdn1.forter.com
+0.0.0.0 cdn2.forter.com
+0.0.0.0 cdn3.forter.com
+0.0.0.0 cdn4.forter.com
+0.0.0.0 cdn5.forter.com
+0.0.0.0 cdn6.forter.com
+0.0.0.0 cdn7.forter.com
+0.0.0.0 cdn8.forter.com
+0.0.0.0 cdn9.forter.com
+0.0.0.0 cdn0.forter.com
+0.0.0.0 homedepot.tt.omtrdc.net
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 cdn.quantummetric.com
+0.0.0.0 lptag.liveperson.net
+0.0.0.0 homedepot-sync.quantummetric.com
+0.0.0.0 www.res-x.com
+0.0.0.0 d.btttag.com
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 d.agkn.com
+0.0.0.0 accdn.lpsnmedia.net
+0.0.0.0 lpcdn.lpsnmedia.net
+0.0.0.0 static.ecorebates.com
+0.0.0.0 lowes.ecorebates.com
+0.0.0.0 s.go-mpulse.net
+0.0.0.0 lp.searchmulty.com
+
+### The following domains should be blocked wholly (and many above, but...too lazy at the moment)
+#*.px-cloud.net
+#*.micpn.com
+#*.siteintercept.qualtrics.com
+#*.online-metrix.net
